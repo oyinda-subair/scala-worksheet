@@ -1,1 +1,1 @@
-# hacker-rank-scala
+# scala-worksheet
