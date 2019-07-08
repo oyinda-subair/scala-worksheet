@@ -1,6 +1,6 @@
 /*
 Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands
-Time complexity - O(n*2)
+Time complexity - O(n*2) O(n)
 Space complexity - O(1)
 // Sort an arr[] of size n
 insertionSort(arr, n)

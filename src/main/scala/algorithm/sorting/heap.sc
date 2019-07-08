@@ -2,6 +2,7 @@
 Heap sort iis a comparision based sorting on Binary heap data structure.
 It is similar to selection sort where we first find the maximum element
 and place the maximum element at the end, butt it uses heap data
+Time complexity - O(n Log n)
  */
 
 object HeapSort {
